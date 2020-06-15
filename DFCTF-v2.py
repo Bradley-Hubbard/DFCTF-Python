@@ -1,7 +1,9 @@
 """
 Author: Bradley T Hubbard
-Project: DFCTF - Final Year Development Project - DFCTF.py
+Project: DFCTF - Final Year Development Project - DFCTF-v2.py
 </4a756e2032332c2031393132/>
+
+Prototype version 2
 
 """
 import hashlib
