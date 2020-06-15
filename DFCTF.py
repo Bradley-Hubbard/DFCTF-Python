@@ -3,9 +3,8 @@ Author: Bradley T Hubbard
 Project: DFCTF - Final Year Development Project - DFCTF.py
 </4a756e2032332c2031393132/>
 
-Notes
--Add Colour coding???
--When exiting from level to menu and exit must be entered twice???
+Prototype version 1
+
 """
 
 def menu():
